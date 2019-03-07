@@ -19,6 +19,5 @@ a class should have only a single responsibility (i.e. only changes to one part 
 5. Needless Repetition.
 6. Opacity. The code is hard to understand.
 
-
 ### Other resources:
 * A [very well written blog](http://rubyblog.pro/) with explanation of design patters and examples given in Ruby by [Sergii Makagon](https://twitter.com/makagon).
