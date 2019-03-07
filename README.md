@@ -1,3 +1,11 @@
+### To access online, please use the links to served HTML below:
+
+1. [Refactoring overview](https://radekosmulski.github.io/refactoring/refactoring_overview)
+2. [Great talks on OOP and SOLID](https://radekosmulski.github.io/refactoring/great_talks_on_OOP_and_SOLID)
+3. [7 ineffective coding habits](https://radekosmulski.github.io/refactoring/7_ineffective_coding_habits) 
+
+## Overview
+
 A repository with examples of refactoring with some theory mixed in. I am currently working through [Refactoring: Ruby Edition](https://www.goodreads.com/book/show/11560939-refactoring?from_search=true) (if you don't have this book, you should go and get it! it is amazing) and this repository is how I learn.
 
 ### [SOLID](https://en.wikipedia.org/wiki/SOLID) patterns (promoted by Bob Martin)
